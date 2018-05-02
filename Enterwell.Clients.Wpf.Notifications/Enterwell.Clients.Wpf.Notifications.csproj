@@ -54,6 +54,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActionExtensions.cs" />
+    <Compile Include="Animations\FadeIn.cs" />
+    <Compile Include="Animations\FadeOut.cs" />
+    <Compile Include="Animations\SlideInAnimation.cs" />
+    <Compile Include="Animations\SlideOutAnimation.cs" />
     <Compile Include="Controls\NotificationMessage.cs" />
     <Compile Include="Controls\NotificationMessageButton.cs" />
     <Compile Include="Controls\NotificationMessageContainer.cs" />
